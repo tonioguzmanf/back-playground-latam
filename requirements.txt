@@ -1,0 +1,5 @@
+Flask
+Flask-Cors
+google-cloud-core
+google-cloud-aiplatform
+PyMuPDF
